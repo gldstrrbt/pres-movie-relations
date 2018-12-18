@@ -1,5 +1,5 @@
 # pres-movie-relations
-(In progress) An study in finding correlations between media themes (movies in this case) and terms of US presidents. Example: Eisenhower tops all for number of Westerns created under any presidency. GW Bush holds the record for Romance flicks. And there seems to be a strong correlation between Obama's terms and Super Hero movies. 
+In the New York City subway, we're bombarded with advertisements no matter where we look. Whether you're waiting on the platform or sitting/standing on the train, it's inevitable that your eyes will engage with one. Having observed a significant shift in themes protrayed in movie and show ads between Obama's presidency (tons of superhero themes) and the current one (ungodly amount of patriotism), I decided to dig into the data in search of correlations.
 
 [Dataset 00](http://shanelessa.com/imgs/movie_pres_multi_genre.csv)
 
