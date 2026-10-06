@@ -1,4 +1,6 @@
 # pres-movie-relations
+
+> **Originally built: 2018.** Historical archive. This code reflects the tools, APIs, browser constraints, and coding practices of that period, not my current stack or standards.
 In the New York City subway, we're bombarded with advertisements no matter where we look. Whether you're waiting on the platform or sitting/standing on the train, it's inevitable that your eyes will engage with one. Having observed a significant shift in themes protrayed in movie and show ads between Obama's presidency (tons of superhero themes) and the current one (ungodly amount of patriotism), I decided to dig into the data in search of correlations.
 
 [Dataset 00](http://shanelessa.com/imgs/movie_pres_multi_genre.csv)
